@@ -1,0 +1,14 @@
+G:\cours.net\visual\assignment3\bin\Debug\net7.0\assignment3.exe
+G:\cours.net\visual\assignment3\bin\Debug\net7.0\assignment3.deps.json
+G:\cours.net\visual\assignment3\bin\Debug\net7.0\assignment3.runtimeconfig.json
+G:\cours.net\visual\assignment3\bin\Debug\net7.0\assignment3.dll
+G:\cours.net\visual\assignment3\bin\Debug\net7.0\assignment3.pdb
+G:\cours.net\visual\assignment3\obj\Debug\net7.0\assignment3.GeneratedMSBuildEditorConfig.editorconfig
+G:\cours.net\visual\assignment3\obj\Debug\net7.0\assignment3.AssemblyInfoInputs.cache
+G:\cours.net\visual\assignment3\obj\Debug\net7.0\assignment3.AssemblyInfo.cs
+G:\cours.net\visual\assignment3\obj\Debug\net7.0\assignment3.csproj.CoreCompileInputs.cache
+G:\cours.net\visual\assignment3\obj\Debug\net7.0\assignment3.dll
+G:\cours.net\visual\assignment3\obj\Debug\net7.0\refint\assignment3.dll
+G:\cours.net\visual\assignment3\obj\Debug\net7.0\assignment3.pdb
+G:\cours.net\visual\assignment3\obj\Debug\net7.0\assignment3.genruntimeconfig.cache
+G:\cours.net\visual\assignment3\obj\Debug\net7.0\ref\assignment3.dll
